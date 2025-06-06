@@ -1,0 +1,242 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif ;
+    background-color: rgba(241, 158, 244, 0.29);
+    margin-top: 120px;
+}
+body h3{
+    text-align: center;
+    font-size: 1.5rem;
+}
+header{
+    background-color: rgba(251, 0, 255, 0.799);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    text-align: center;
+
+}
+.apple{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.iphone-7{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-iphone-7{
+width: 40%;
+}
+.iphone-7plus{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-iphone-7plus{
+    width: 40%;
+}
+.iphone-8plus{
+     width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-iphone-8plus{
+    width: 40%;
+}
+.iphone-x{
+     width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-iphone-x{
+    width: 40%;
+}
+.iphone-xr{
+     width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-iphone-xr{
+    width: 40%;
+}
+.iphone-11pro{
+     width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-iphone-11pro{
+    width: 40%;
+}
+.iphone-12pro{
+     width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-iphone-12pro{
+    width: 60%;
+}
+.iphone-12mini{
+     width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-iphone-12mini{
+    width: 40%;
+}
+.iphone-12pro-max{
+     width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-iphone-12pro-max{
+    width: 50%;
+}
+.iphone-13pro{
+     width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-iphone-13pro{
+    width: 40%;
+}
+.iphone-14pro-max{
+     width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-iphone-14pro-max{
+    width: 40%;
+}
+.iphone-15plus{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-iphone-15plus{
+    width: 40%;
+}
+.ipad{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.ipad-5-6gen{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-ipad-5-6gen{
+    width: 40%;
+}
+.ipad-mini-7gen{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-ipad-mini-7gen{
+    width: 40%;
+}
+.ipad-11-10gen{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-ipad-11-10gen{
+    width: 40%;
+}
+.ipad-air-2{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-ipad-air-2{
+    width: 40%;
+}

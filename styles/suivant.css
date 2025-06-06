@@ -1,0 +1,65 @@
+body{
+    font-family: arial ,sans-serif;
+    margin: 0;
+    padding: 0;
+    background: rgba(241, 182, 241, 0.377);
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: rgb(230, 168, 244);
+}
+header h3{
+    color: white;
+}
+.choix-boutique{
+    display: flex;
+    gap: 10px; 
+    align-items: center;
+    text-decoration: none;
+    color: rgb(235, 221, 249);
+    font-weight: bold;
+    font-size: 16px;
+    transition: color 0.3s;
+    margin: 15px;
+}
+
+.choix-boutique a:hover{
+    color: rgb(118, 46, 185);
+}
+.choix1,.choix2,.choix3,.choix4{
+    text-decoration: none;
+    border-radius: 5%;
+    background-color: rgb(214, 158, 232);
+    width: 15rem;
+}
+body h2{
+    color: rgb(73, 28, 116);
+
+}
+.body-style{
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 0 20px;
+    border-radius: 2%;
+    background-color: rgb(219, 175, 231);
+    margin-top: 80px;
+}
+.demo{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 10px 20px;
+}
+.logo2{
+    width: 35%;
+    height: auto;
+    border-radius: 10%;
+}
+.logo3{
+    width: 30%;
+    height: auto;
+    border-radius: 10%;
+}

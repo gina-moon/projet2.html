@@ -1,0 +1,182 @@
+body{
+    margin: 0;
+    top: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(245, 171, 245);
+}
+body h3{
+    text-align: center;
+    font-size: 1.5rem;
+}
+header{
+    background-color: rgba(251, 0, 255, 0.799);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    text-align: center;
+
+}
+body h3{
+    text-align: center;
+}
+.sam{
+    margin-top: 120px;
+}
+.samsung{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.samsung-s24{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-samsung-s24{
+    width: 40%;
+}
+.samsung-a13{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-samsung-a13{
+    width: 40%;
+}
+.samsung-a35{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-samsung-a35{
+    width: 40%;
+}
+.samsung-a55{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-samsung-a55{
+    width: 40%;
+}
+.samsung-zfold5{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-samsung-zfold5{
+    width: 20%;
+}
+.samsung-Zfold6{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-samsung-Zfold6{
+    width: 40%;
+}
+.samsung-zflip6{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-samsung-zflip6{
+    width: 40%;
+}
+.tab{
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.galaxy-tab-a7{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-galaxy-tab-a7{
+    width: 40%;
+}
+.galaxy-tab-s6{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-galaxy-tab-s6{
+    width: 40%;
+}
+.galaxy-tab-s9{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-galaxy-tab-s9{
+    width: 40%;
+}
+.galaxy-tab-a8{
+    width: 200px;
+    border: 1px solid #f2c4f0;
+    border-radius: 8px;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 0 2px 5px rbga(0,0,0,0.1);
+    transition: transform 0.2s;
+    background-color: #fefefe;
+}
+.logo-galaxy-tab-a8{
+    width: 40%;
+}
